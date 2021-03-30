@@ -1,15 +1,17 @@
 <h2>Churrascômetro</h2>
-Projeto desenvolvido com os ensinamentos do curso de Desenvolvimento Web Full Stack.
+<p>Projeto desenvolvido com os ensinamentos do curso de Desenvolvimento Web Full Stack.</p>
 <h3>Regras Utilizadas</h3>
-Carne - 400g por pessoa
-    + de 6 horas 650gr 
-Cerveja - 1200ml por pessoa
-    + de 6 horas 2000ml
-Refrigerante/agua - 1000ml por pessoa
-    + 6 horas 1500ml
-Crianças - 0,5 de um adulto.(Para crian�as somente carne, refrigerante ou �gua)
-Vai ser apresentado a quantidade de latas de cerveja 355ml e Refrigerante/Água de 2 Litros.
-
+<p>Carne - 400g por pessoa, + de 6 horas 650gr</p>
+<p>Cerveja - 1200ml por pessoa, + de 6 horas 2000ml</p>
+<p>Refrigerante/agua - 1000ml por pessoa, + 6 horas 1500ml</p>
+<p>Crianças - 0,5 de um adulto (Para crianças somente carne, refrigerante ou água)</p>
+<p>Serão apresentadas as informações da seguinte mandeira.</p>
+<ul>
+  <li>Carne em KG</li>
+  <li>Cerveja em latas de 355ml</li>
+  <li>Refrigerante/Água em garrafas de 2 Litros</li>
+</ul>
+<h3>Stacks Utilizadas</h3>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
