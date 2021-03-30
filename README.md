@@ -3,9 +3,9 @@
 <h3>Regras Utilizadas</h3>
 <p>Carne - 400g por pessoa, + de 6 horas 650gr</p>
 <p>Cerveja - 1200ml por pessoa, + de 6 horas 2000ml</p>
-<p>Refrigerante/agua - 1000ml por pessoa, + 6 horas 1500ml</p>
+<p>Refrigerante/água - 1000ml por pessoa, + 6 horas 1500ml</p>
 <p>Crianças - 0,5 de um adulto (Para crianças somente carne, refrigerante ou água)</p>
-<p>Serão apresentadas as informações da seguinte mandeira.</p>
+<h3>Serão apresentadas as informações da seguinte maneira:</h3>
 <ul>
   <li>Carne em KG</li>
   <li>Cerveja em latas de 355ml</li>
