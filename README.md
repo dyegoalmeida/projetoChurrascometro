@@ -11,6 +11,7 @@
   <li>Cerveja em latas de 355ml</li>
   <li>Refrigerante/Água em garrafas de 2 Litros</li>
 </ul>
+<p>Projeto Responsivo, você pode acessar clicando no link abaixo. </p>
 <a href="http://churrascometro.dyegoalmeida.com.br/">Acessar Churrascômetro!</a>
 <h3>Stacks Utilizadas</h3>
 <ul>
