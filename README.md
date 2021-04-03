@@ -12,7 +12,7 @@
   <li>Refrigerante/Água em garrafas de 2 Litros</li>
 </ul>
 <p>Projeto Responsivo, você pode acessar clicando no link abaixo. </p>
-<a href="http://churrascometro.dyegoalmeida.com.br/" target="_blank">Acessar Churrascômetro!</a>
+<a href="http://churrascometro.dyegoalmeida.com.br/" target="_blank" itemprop="url">Acessar Churrascômetro!</a>
 <h3>Stacks Utilizadas</h3>
 <ul>
   <li>HTML5</li>
