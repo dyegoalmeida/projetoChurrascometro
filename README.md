@@ -17,7 +17,5 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>SASS</li>
   <li>Boostrap</li>
-  <li>JavaScript</li>
 </ul>
